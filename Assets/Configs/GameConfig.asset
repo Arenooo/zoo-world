@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6df1d9b6b0f021b40b205be684a691d1, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  <WorldPrefab>k__BackingField: {fileID: 9164957688323871809, guid: 90b28b064d39f104e8f132e9d4ab3f34, type: 3}
+  <UIRootPrefab>k__BackingField: {fileID: 6314060590847984803, guid: 84ae854badfc2e04193d8681a51d0d76, type: 3}
+  <MainCameraPosition>k__BackingField: {x: 32, y: 32, z: 0}
+  <MainCameraRotation>k__BackingField: {x: 45, y: -90, z: 0}
